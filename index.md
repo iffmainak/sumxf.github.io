@@ -1,4 +1,4 @@
-## Learn how to use [erjs.io](erjs.io)
+## Learn how to use [erjs.io](http://erjs.io)
 
 You can use the [editor on GitHub](https://github.com/sumxf/sumxf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
